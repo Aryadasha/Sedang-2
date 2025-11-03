@@ -1,0 +1,1 @@
+menyelesaikan perhitungan tabung menggunakan pemgraman sederhana dengan fungsi double untuk menghitung rumus tabung.<img width="1222" height="232" alt="Screenshot 2025-11-03 123159" src="https://github.com/user-attachments/assets/f84cd06d-289c-47e5-bb49-1db339bc284e" />
